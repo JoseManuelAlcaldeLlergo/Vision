@@ -1,0 +1,1 @@
+Exercesises using OpenCV library
